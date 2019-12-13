@@ -1,0 +1,11 @@
+* {
+  outline: none;
+}
+
+.dropdown, .dropleft, .dropright, .dropup {
+}
+
+.btn.btn-primary.dropdown2-toggle {
+  white-space: nowrap;
+}
+
